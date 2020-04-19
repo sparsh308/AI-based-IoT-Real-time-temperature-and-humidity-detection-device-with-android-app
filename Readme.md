@@ -6,3 +6,8 @@
 ### Wiring Diagram
 ![InkedNodeMCU-DHT11-DHT22_LI](https://user-images.githubusercontent.com/47140660/79683687-57791d00-8249-11ea-94a1-f81da85468b8.jpg)
 
+#### Database Readings
+
+![Screenshot (77)](https://user-images.githubusercontent.com/47140660/79683807-1f260e80-824a-11ea-8d72-25c85f58354e.png)
+
+
